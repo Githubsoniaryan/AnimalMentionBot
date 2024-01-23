@@ -36,7 +36,7 @@ async def start(event):
             [
                 Button.url(
                     " Aᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ",
-                    "https://t.me/Alexa_MentionBot?startgroup=true",
+                    "https://t.me/Royal_Mention_Bot?startgroup=true",
                 ),
             ],
             [
@@ -220,5 +220,5 @@ async def cancel_spam(event):
         return await event.respond("sᴛᴏᴘᴘᴇᴅ.")
 
 
-print(">> ASAD ALEXA WORKING <<")
+print(">> ANIMAL MENTION WORKING <<")
 client.run_until_disconnected()
