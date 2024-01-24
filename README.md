@@ -6,6 +6,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴍᴇɴᴛɪᴏɴ ʙᴏᴛ](https://t.me/Royal_Mention_Bot)**_
+
+
+
 ## ✨ Easy To Deploy Direct In Repo✨
 
 The Easiest Way To Deploy This On Heroku For Any Browser Copy Link Supported
