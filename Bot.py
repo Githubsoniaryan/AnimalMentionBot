@@ -30,7 +30,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ 𝐎𝐖𝐍𝐄𝐑    : [𝗔𝗡𝗜𝗠𝗔𝗟](https://t.me/AnimalJanwarrrr)\n┣★ 𝐂𝐎-𝐎𝐖𝐍𝐄𝐑 › : [𝗝𝗔𝗡𝗪𝗔𝗥](https://t.me/ricky_bahl_KK)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [𝐂𝐎-𝐎𝐖𝐍𝐄𝐑](https://t.me/ricky_bahl_KK) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀɴɪᴍᴀʟ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ 𝐎𝐖𝐍𝐄𝐑    : [𝗔𝗡𝗜𝗠𝗔𝗟](https://t.me/smartness_to_hai)\n┣★ 𝐂𝐎-𝐎𝐖𝐍𝐄𝐑 › : [𝗝𝗔𝗡𝗪𝗔𝗥](https://t.me/ricky_bahl_KK)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [𝐂𝐎-𝐎𝐖𝐍𝐄𝐑](https://t.me/ricky_bahl_KK) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
@@ -40,11 +40,11 @@ async def start(event):
                 ),
             ],
             [
-                Button.url(" Sᴜᴘᴘᴏʀᴛ ", "https://t.me/pallavi_sarkar2"),
+                Button.url(" Sᴜᴘᴘᴏʀᴛ ", "https://t.me/pallavi_sarkar"),
                 Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
             ],
             [
-                Button.url(" Oᴡɴᴇʀ ", "https://t.me/AnimalJanwarrrr"),
+                Button.url(" Oᴡɴᴇʀ ", "https://t.me/smartness_to_hai"),
                 Button.url(" Cᴏ-ᴏᴡɴᴇʀ ", "https://t.me/ricky_bahl_KK"),
             ],
         ),
@@ -62,7 +62,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/pallavi_sarkar2"),
+                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/pallavi_sarkar"),
                 Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
             ]
         ),
@@ -74,14 +74,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/JankariKiDuniya)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀɴɪᴍᴀʟ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [Aɴɪᴍᴀʟ](https://t.me/smartness_to_hai)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/JankariKiDuniya)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/pallavi_sarkar2"),
-                Button.url(" Cʜᴀɴɴᴇʟ ", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/pallavi_sarkar"),
+                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
             ]
         ),
     )
