@@ -40,7 +40,7 @@ async def start(event):
                 ),
             ],
             [
-                Button.url(" Sᴜᴘᴘᴏʀᴛ ", "https://t.me/pallavi_sarkar"),
+                Button.url(" Sᴜᴘᴘᴏʀᴛ ", "https://t.me/knight_society"),
                 Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
             ],
             [
@@ -62,7 +62,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/pallavi_sarkar"),
+                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/knight_society"),
                 Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
             ]
         ),
@@ -80,7 +80,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/pallavi_sarkar"),
+                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/knight_society"),
                 Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
             ]
         ),
