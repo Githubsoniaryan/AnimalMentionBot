@@ -41,7 +41,7 @@ async def start(event):
             ],
             [
                 Button.url(" Sᴜᴘᴘᴏʀᴛ ", "https://t.me/knight_society"),
-                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
+                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/tabahi_tabahi"),
             ],
             [
                 Button.url(" Oᴡɴᴇʀ ", "https://t.me/smartness_to_hai"),
@@ -63,7 +63,7 @@ async def help(event):
         buttons=(
             [
                 Button.url(" Gʀᴏᴜᴘ ", "https://t.me/knight_society"),
-                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
+                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/tabahi_tabahi"),
             ]
         ),
     )
@@ -81,7 +81,7 @@ async def help(event):
         buttons=(
             [
                 Button.url(" Gʀᴏᴜᴘ ", "https://t.me/knight_society"),
-                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/itsRareBeautySelenaGomez"),
+                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/tabahi_tabahi"),
             ]
         ),
     )
