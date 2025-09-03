@@ -35,7 +35,7 @@ async def start(event):
         buttons=(
             [
                 Button.url(
-                    "🍁𝖠𝖽𝖽 𝖬𝖾 𝖡𝖺𝖻𝗒 𝖥𝖺𝗌𝗍🍁",
+                    "🍁𝖠𝖽𝖽 𝖬𝖾 𝖥𝖺𝗌𝗍 𝖡𝖺𝖻𝗒🍁",
                     "https://t.me/PujaMusicRobot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
                 ),
             ],
