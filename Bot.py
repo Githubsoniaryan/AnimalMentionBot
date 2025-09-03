@@ -40,12 +40,12 @@ async def start(event):
                 ),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
             ],
         ),
     )
@@ -62,8 +62,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
             ]
         ),
     )
@@ -80,8 +80,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/PujaMusicRobot"),
             ]
         ),
     )
