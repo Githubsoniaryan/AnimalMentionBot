@@ -36,16 +36,16 @@ async def start(event):
             [
                 Button.url(
                     " Aᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ",
-                    "https://t.me/Royal_Mention_Bot?startgroup=true",
+                    "https://t.me/PujaMusicRobot?startgroup=true",
                 ),
             ],
             [
-                Button.url(" Sᴜᴘᴘᴏʀᴛ ", "https://t.me/knight_society"),
-                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/tabahi_tabahi"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
             ],
             [
-                Button.url(" Oᴡɴᴇʀ ", "https://t.me/smartness_to_hai"),
-                Button.url(" Cᴏ-ᴏᴡɴᴇʀ ", "https://t.me/ricky_bahl_KK"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
             ],
         ),
     )
@@ -62,8 +62,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/knight_society"),
-                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/tabahi_tabahi"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
             ]
         ),
     )
@@ -80,8 +80,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url(" Gʀᴏᴜᴘ ", "https://t.me/knight_society"),
-                Button.url(" Cʜᴀɴɴᴇʟ ", "https://t.me/tabahi_tabahi"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/viralemmspbot"),
             ]
         ),
     )
