@@ -30,7 +30,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-     "━━━━━━━━━━━━━━━━━━━\n\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇</u>\n\n➜ @PujaMusicRobot 💋\n➜ @PujaMusicRobot 💋\n➜ @PujaMusicRobot 💋\n➜ @PujaMusicRobot 💋\n\n<u>👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n\n━━━━━━━━━━━━━━━━━━━",
+     "━━━━━━━━━━━━━━━━━━━\n\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n➜ @PujaMusicRobot 💋\n➜ @PujaMusicRobot 💋\n➜ @PujaMusicRobot 💋\n➜ @PujaMusicRobot 💋\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n\n━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
