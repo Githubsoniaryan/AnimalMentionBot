@@ -28,22 +28,22 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n@JioSaavanProMusicRobot\n@JioSaavanProMusicRobot\n@JioSaavanProMusicRobot\n@JioSaavanProMusicRobot\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
+     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n@JioSaavanMusiccBot\n@JioSaavanMusiccBot\n@JioSaavanMusiccBot\n@JioSaavanMusiccBot\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
                 Button.url(
                     "🍁𝖠𝖽𝖽 𝖬𝖾 𝖥𝖺𝗌𝗍 𝖡𝖺𝖻𝗒🍁",
-                    "https://t.me/JioSaavanProMusicRobot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                    "https://t.me/JioSaavanMusiccBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
                 ),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
             ],
         ),
     )
@@ -60,8 +60,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
             ]
         ),
     )
@@ -78,8 +78,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanProMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈🍁", "https://t.me/JioSaavanMusiccBot"),
             ]
         ),
     )
