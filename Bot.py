@@ -28,7 +28,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n@JioSaavanMusiccBot\n@JioSaavanMusiccBot\n@JioSaavanMusiccBot\n@JioSaavanMusiccBot\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
+     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n➜ @JioSaavanMusiccBot 💋\n➜ @JioSaavanMusiccBot 💋\n➜ @JioSaavanMusiccBot 💋\n➜ @JioSaavanMusiccBot 💋\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
