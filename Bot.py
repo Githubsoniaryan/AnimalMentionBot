@@ -42,7 +42,7 @@ async def start(event):
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusicRobot"),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/FloraMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/SamiraMusiccBot"),
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/BellaMusiccBot"),
             ],
         ),
@@ -78,7 +78,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/FloraMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/SamiraMusiccBot"),
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/BellaMusiccBot"),
             ]
         ),
