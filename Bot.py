@@ -28,7 +28,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n➜ @SamiraMusiccBot 💋\n➜ @SamiraMusiccBot 💋\n➜ @Olivia_Music_X_Bot 💋\n➜ @Olivia_Music_X_Bot 💋\n➜ @Shizuka_Music_X_Bot 💋\n➜ @Shizuka_Music_X_Bot 💋\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
+     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n➜ @PariMusiccBot 💋\n➜ @PariMusiccBot 💋\n➜ @QueenMusiccBot 💋\n➜ @QueenMusiccBot 💋\n➜ @SamiraMusiccBot 💋\n➜ @SamiraMusiccBot 💋\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
@@ -39,11 +39,11 @@ async def start(event):
             ],
             [
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PariMusiccBot"),
             ],
             [
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/SamiraMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/BellaMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/QueenMusiccBot"),
             ],
         ),
     )
@@ -61,7 +61,7 @@ async def help(event):
         buttons=(
             [
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusicRobot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PariMusiccBot"),
             ]
         ),
     )
@@ -79,7 +79,7 @@ async def help(event):
         buttons=(
             [
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/SamiraMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/BellaMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/QueenMusiccBot"),
             ]
         ),
     )
