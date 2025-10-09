@@ -28,7 +28,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
+     "━━━━━━━━━━━━━━━━━━━\n👇 𝗚𝗲𝘁 𝗩𝗶𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 👇\n\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n\n👆 𝗚𝗲𝘁 𝗩𝗶𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 👆\n━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
