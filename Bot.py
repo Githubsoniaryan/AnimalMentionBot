@@ -34,11 +34,11 @@ async def start(event):
             [
                 Button.url(
                     "🍁𝖠𝖽𝖽 𝖬𝖾 𝖥𝖺𝗌𝗍 𝖡𝖺𝖻𝗒🍁",
-                    "https://t.me/PujaChatMusiccBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                    "https://t.me/PujaMusicccBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
                 ),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusicccBot"),
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusiccBot"),
             ],
             [
@@ -60,7 +60,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusicccBot"),
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusiccBot"),
             ]
         ),
