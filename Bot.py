@@ -28,21 +28,21 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n➜ @PariMusiccBot 💋\n➜ @PariMusiccBot 💋\n➜ @QueenMusiccBot 💋\n➜ @QueenMusiccBot 💋\n➜ @SamiraMusiccBot 💋\n➜ @SamiraMusiccBot 💋\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
+     "━━━━━━━━━━━━━━━━━━━\n👇 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👇\n\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n\n👆 𝗦𝘁𝗮𝗿𝘁 𝗧𝗵𝗶𝘀 𝗕𝗼𝘁 𝗙𝗮𝘀𝘁 👆\n━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
                 Button.url(
                     "🍁𝖠𝖽𝖽 𝖬𝖾 𝖥𝖺𝗌𝗍 𝖡𝖺𝖻𝗒🍁",
-                    "https://t.me/PujaMusiccBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                    "https://t.me/PujaChatMusiccBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
                 ),
             ],
             [
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PariMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusiccBot"),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/SamiraMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/PariMusiccBot"),
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/QueenMusiccBot"),
             ],
         ),
@@ -61,7 +61,7 @@ async def help(event):
         buttons=(
             [
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PariMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusiccBot"),
             ]
         ),
     )
@@ -78,7 +78,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/SamiraMusiccBot"),
+                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/PariMusiccBot"),
                 Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/QueenMusiccBot"),
             ]
         ),
