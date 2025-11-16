@@ -40,7 +40,7 @@ async def start(event):
                 ),
             ],
             [
-                Button.url("🍁 sᴜᴘᴘᴏʀᴛ 🍁", "https://t.me/+81x8E5tSbQdjY2Fl"),
+                Button.url("🍁 sᴜᴘᴘᴏʀᴛ 🍁", "https://t.me/+1v8ypoXXcR9mZTBl"),
                 Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ],
             [
@@ -62,7 +62,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+81x8E5tSbQdjY2Fl"),
+                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+1v8ypoXXcR9mZTBl"),
                 Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ]
         ),
@@ -80,7 +80,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+81x8E5tSbQdjY2Fl"),
+                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+1v8ypoXXcR9mZTBl"),
                 Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ]
         ),
