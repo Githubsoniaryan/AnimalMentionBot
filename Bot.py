@@ -1,3 +1,5 @@
+
+
 import os, logging, asyncio
 from telethon import Button
 from telethon import TelegramClient, events
@@ -28,22 +30,22 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-     "━━━━━━━━━━━━━━━━━━━\n👇 𝗚𝗲𝘁 𝗩𝗶𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 👇\n\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n➜ @Dr_Priyanka_Paid_Girl 💋\n\n👆 𝗚𝗲𝘁 𝗩𝗶𝗽 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 👆\n━━━━━━━━━━━━━━━━━━━",
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀɴɪᴍᴀʟ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ 𝐎𝐖𝐍𝐄𝐑    : [𝗔𝗡𝗜𝗠𝗔𝗟](https://t.me/smartness_to_hai)\n┣★ 𝐂𝐎-𝐎𝐖𝐍𝐄𝐑 › : [𝗝𝗔𝗡𝗪𝗔𝗥](https://t.me/ricky_bahl_KK)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [𝐂𝐎-𝐎𝐖𝐍𝐄𝐑](https://t.me/ricky_bahl_KK) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
                 Button.url(
-                    "🍁𝖠𝖽𝖽 𝖬𝖾 𝖥𝖺𝗌𝗍 𝖡𝖺𝖻𝗒🍁",
-                    "https://t.me/PujaMusicccBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                    "🍁 ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🍁",
+                    "https://t.me/Knight_Mention_Robot?startgroup=true",
                 ),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusicccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusiccBot"),
+                Button.url("🍁 sᴜᴘᴘᴏʀᴛ 🍁", "https://t.me/+dB09v-VVuwZjODI6"),
+                Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ],
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/BellaMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/QueenMusiccBot"),
+                Button.url("🍁 ᴏᴡɴᴇʀ 🍁", "https://t.me/smartness_to_hai"),
+                Button.url("🍁 ᴄᴏᴡɴᴇʀ 🍁", "https://t.me/ricky_bahl_KK"),
             ],
         ),
     )
@@ -60,11 +62,11 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 1🍁", "https://t.me/PujaMusicccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 2🍁", "https://t.me/PujaChatMusiccBot"),
+                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+dB09v-VVuwZjODI6"),
+                Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ]
         ),
-    )
+    )     
 
 
 @client.on(events.NewMessage(pattern="^/owner$"))
@@ -72,14 +74,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀɴɪᴍᴀʟ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴀɴɪᴍᴀʟ](https://t.me/smartness_to_hai)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://t.me/tabahi_tabahi)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀɴɪᴍᴀʟ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [Aɴɪᴍᴀʟ](https://t.me/smartness_to_hai)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/JankariKiDuniya)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 3🍁", "https://t.me/BellaMusiccBot"),
-                Button.url("🍁𝖵𝗂𝗋𝖺𝗅 𝖵𝖽𝗈 4🍁", "https://t.me/QueenMusiccBot"),
+                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+dB09v-VVuwZjODI6"),
+                Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ]
         ),
     )
