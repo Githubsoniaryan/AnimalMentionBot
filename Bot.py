@@ -36,11 +36,11 @@ async def start(event):
             [
                 Button.url(
                     "🍁 ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🍁",
-                    "https://t.me/Knight_Mention_Robot?startgroup=true",
+                    "https://t.me/SwastiMentionBot?startgroup=true",
                 ),
             ],
             [
-                Button.url("🍁 sᴜᴘᴘᴏʀᴛ 🍁", "https://t.me/+dB09v-VVuwZjODI6"),
+                Button.url("🍁 sᴜᴘᴘᴏʀᴛ 🍁", "https://t.me/+81x8E5tSbQdjY2Fl"),
                 Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ],
             [
@@ -62,7 +62,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+dB09v-VVuwZjODI6"),
+                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+81x8E5tSbQdjY2Fl"),
                 Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ]
         ),
@@ -80,7 +80,7 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+dB09v-VVuwZjODI6"),
+                Button.url("🍁 ɢʀᴏᴜᴘ 🍁", "https://t.me/+81x8E5tSbQdjY2Fl"),
                 Button.url("🍁 ᴄʜᴀɴɴᴇʟ 🍁", "https://t.me/tabahi_tabahi"),
             ]
         ),
